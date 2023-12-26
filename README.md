@@ -1,16 +1,3 @@
-# bookingcuci
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tampilan Awal Booking Cuci Steam
+![alt text](<img width="149" alt="ta_bcs" src="https://github.com/alannn1/booking-cuci-steam_flutter/assets/153209403/7546f99b-3852-4224-af16-ce14335cc64e">
+?raw=true)
